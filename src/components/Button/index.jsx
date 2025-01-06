@@ -12,4 +12,4 @@ export function Button({title, loading = false, ...rest}) {
         </Container>
     )
    
-}
+};
