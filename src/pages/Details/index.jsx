@@ -1,4 +1,6 @@
 import { Container } from "./styles"
+import {Button} from "../../components/Button"
+
 
 export function Details() {
   return (
@@ -7,6 +9,7 @@ export function Details() {
       <span>Leonardo Nunes</span>
       <br />
       <a>code-llan-br</a>
+      <Button/>
     </Container>
   )
 }
