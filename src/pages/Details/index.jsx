@@ -9,7 +9,9 @@ export function Details() {
       <span>Leonardo Nunes</span>
       <br />
       <a>code-llan-br</a>
-      <Button/>
+      <Button title='Login'/>
+      <Button title='Register'/>
+      <Button title='Return'/>
     </Container>
   )
 }
