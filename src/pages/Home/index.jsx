@@ -7,7 +7,7 @@ import {ButtonText} from '../../components/ButtonText';
 import {Input} from '../../components/Input';
 import {Section} from '../../components/Section';
 import {Note} from '../../components/Note';
-import { Tag } from '../../components/Tag';
+
 
 export function Home() {
     return(
